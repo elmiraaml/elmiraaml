@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,24,15&height=150&section=header&text=Elmira's%20Little%20Corner&fontSize=35&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,24,15&height=150&section=header&text=rie's%20Little%20Corner&fontSize=35&fontColor=ffffff" width="100%" />
 </div>
 
 <div align="center">
